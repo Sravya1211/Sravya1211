@@ -1,16 +1,13 @@
-## Hi there 👋
+## Sai Sravya Gadde  
+Data Analyst | KPI Analytics | Executive Data Storytelling  
 
-<!--
-**Sravya1211/Sravya1211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Focused on transforming structured and semi-structured data into decision-ready insights.  
 
-Here are some ideas to get you started:
+Currently working on:
+• Healthcare Analytics (TruBridge Externship)  
+• Advanced SQL & Window Functions  
+• Executive Dashboard Design  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tools: Excel | SQL | Python | Flourish | Canva | Power BI | Tableau
+
+
